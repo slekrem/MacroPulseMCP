@@ -35,7 +35,7 @@ MacroPulseMCP provides 13 comprehensive tool categories covering all major Tradi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/MacroPulseMCP.git
+git clone https://github.com/slekrem/MacroPulseMCP.git
 cd MacroPulseMCP
 ```
 
@@ -48,7 +48,7 @@ dotnet build
 ```json
 {
     "TradingEconomics": {
-        "ApiKey": "your-api-key-here"
+        "ApiKey": "guest:guest"
     }
 }
 ```
